@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac demir_makeBankAccountsAndTransactions.java
+java demir_makeBankAccountsAndTransactions transactions_test_6.txt
